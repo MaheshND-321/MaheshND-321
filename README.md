@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahesh N D</h1>
 <h3 align="center">A passionate frontend and Python developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshnd-321&label=Profile%20views&color=0e75b6&style=flat" alt="maheshnd-321" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheshnd-321" alt="maheshnd-321"></a> </p>
 
 - 🔭 I’m currently working on **Face Recognition Attendance Management system website**
