@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshnd-321&label=Profile%20views&color=0e75b6&style=flat" alt="maheshnd-321" /> </p>
 
-<p align="left" backgroundcolor="yellow"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheshnd-321" alt="maheshnd-321" /></a> </p>
+<p align="left" dir="auto">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8a64407c452385cac8d96d9d346392885f4738355359ed0a7316b760c7e98252/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6468616e76696e6126636f6c756d6e3d37267468656d653d67727576626f78266e6f2d6672616d653d74727565"><img width="1000" src="https://camo.githubusercontent.com/8a64407c452385cac8d96d9d346392885f4738355359ed0a7316b760c7e98252/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6468616e76696e6126636f6c756d6e3d37267468656d653d67727576626f78266e6f2d6672616d653d74727565" data-canonical-src="https://github-profile-trophy.vercel.app/?username=dhanvina&amp;column=7&amp;theme=gruvbox&amp;no-frame=true" style="max-width: 100%;"></a>
+</p>
 
 - 🔭 I’m currently working on **Face Recognition Attendance Management system website**
 
