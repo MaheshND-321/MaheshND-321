@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheshnd-321" alt="maheshnd-321"></a> </p>
 
-- 🔭 I’m currently working on **Face Recognition Attendance Management system website**
+- 🔭 I’m currently working on **Automated Marks Entry System Using Digit Recognition**
 
-- 🌱 I’m currently learning **Django and DataScience**
+- 🌱 I’m currently learning **Machine learning, DataScience, Django and Flask**
 
 - 💬 Ask me about **Python, Html,Css,C,Java.**
 
