@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahesh N D</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 💫 About Me:<br>
-🔭 I’m currently working Lab Equipment's Optimization Website Using Django and React.<br>
-🌱 I’m currently learning Machine learning, Data Science, Django and ReactJs. <br>
+🔭 I’m currently working Lab Equipment's Optimization Website Using Django and Machine learning<br>
+🌱 I’m currently learning deep learning, Data Science and ReactJs. <br>
 💬 Ask me about Python, C, Java, C++, JavaScript, Html, CSS.<br>
 📫 How to reach me maheshndevraj@gmail.com. 
 <img align="right" src="https://th.bing.com/th/id/OIP.fLGVO-BgnECoqwoWYFBWegAAAA?pid=ImgDet&w=191&h=191&c=7&dpr=1.9" alt="maheshnd-321" />
