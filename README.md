@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mahesh N D</h1>
-<h3 align="center">A passionate Python developer from India</h3>
-💫 About Me:<br>
-🔭 I’m currently working Lab Equipment's Optimization Website Using Django and Machine learning<br>
-🌱 I’m currently learning deep learning, Data Science and ReactJs. <br>
-💬 Ask me about Python, C, Java, C++, JavaScript, Html, CSS.<br>
-📫 How to reach me maheshndevraj@gmail.com. 
+<h3 align="center">A Passionate Full-Stack Developer from India</h3>
+
+💫 **About Me:**<br>
+🔭 I’m currently working on a Lab Equipment Optimization Website using Django and Machine Learning.<br>
+🌱 I’m passionate about building scalable web applications and exploring cloud & DevOps technologies.<br>
+💻 I specialize in **MERN Stack**, **Django**, and **Flask**, with strong knowledge of **backend development, APIs, and microservices**.<br>
+☁️ I have experience working with **Docker, AWS, Azure, and CI/CD pipelines** for efficient deployment.<br>
+💬 Ask me about **Python, JavaScript, C, C++, Java, HTML, CSS, and cloud infrastructure**.<br>
+📫 How to reach me: **maheshndevraj@gmail.com**.<br>
+🚀 Always eager to learn new technologies and collaborate on exciting projects!
+
 <img align="right" src="https://th.bing.com/th/id/OIP.fLGVO-BgnECoqwoWYFBWegAAAA?pid=ImgDet&w=191&h=191&c=7&dpr=1.9" alt="maheshnd-321" />
 
 
